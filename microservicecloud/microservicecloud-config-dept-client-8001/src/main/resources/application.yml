@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: microservicecloud-config-dept-client
+
+info:
+  app.name: atguigu-microservicecloud-springcloudconfig
+  company.name: www.atguigu.com
+  build.artifactId: @project.artifactId@
+  build.version: @project.version@
